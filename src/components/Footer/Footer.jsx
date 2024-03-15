@@ -29,8 +29,9 @@ function Footer() {
             </a>
 
             <a
-              href="#!"
+              href="https://www.linkedin.com/in/avantika-570819200/"
               type="button"
+              target="_blank"
               className="rounded-full bg-[#0082ca] p-3 uppercase leading-normal text-white shadow-dark-3 shadow-black/30 transition duration-150 ease-in-out hover:shadow-dark-1 focus:shadow-dark-1 focus:outline-none focus:ring-0 active:shadow-1 dark:text-white"
               data-twe-ripple-init
               data-twe-ripple-color="light"
